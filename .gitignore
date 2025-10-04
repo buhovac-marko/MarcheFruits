@@ -1,0 +1,10 @@
+# .NET build folders
+bin/
+obj/
+
+# VS Code settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
